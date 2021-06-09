@@ -312,6 +312,10 @@
   {
       name:"Saurabh",
       score:95,
+  },
+  {
+      name:"Roshan",
+      score:90,
   }
   ];
 
